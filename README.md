@@ -69,7 +69,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/soumya693923/soumya6939/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/soumya6939/soumya6939/output/snake.svg" alt="Snake animation" />
 
 <div> 
 
