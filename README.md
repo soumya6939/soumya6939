@@ -73,7 +73,7 @@
 
 <div> 
 
-<a align="center" href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=soumya693923&theme=radical" alt="GitHub Streak" /></a>
+<a align="center" href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=soumya6939&theme=radical" alt="GitHub Streak" /></a>
 <img align="right" height="200" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif"  />
 </div>
 
