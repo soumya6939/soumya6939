@@ -3,7 +3,7 @@
 
 <img src="https://raw.githubusercontent.com/soumya6939/soumya6939/output/snake.svg" alt="Snake animation" />
 
-<div> 
+<div width="100%"> 
 <a align="center" href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=soumya6939&theme=radical" alt="GitHub Streak" /></a>
 </div>
 
